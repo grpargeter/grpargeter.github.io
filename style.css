@@ -2,9 +2,6 @@ body {
   background:#e8c258;
   color: #444444;
   font-family: Arial, Helvetica, sans-serif;
-  display: flex;
-  justify-content: right;
-  align-items: right;
 }
 img {
   max-width:500px;
